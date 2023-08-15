@@ -1,3 +1,19 @@
+
+#string manipulation
+
+#.lstrip()
+name = 'zking luis'
+print(name.lstrip(" " "z"))
+
+#.rstrip
+name = 'king zahrtexh'
+print(name.rstrip(" " "h"))
+
+#.strip()
+
+name = 'king zahrtex'
+print(name.strip())
+
 #string exercise
 names = ['   zeLDa', 'link', ' gAnon ', 'BATMAN']
 for name in names:
